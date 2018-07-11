@@ -11,6 +11,10 @@
 	background-color: #73c80c;
 	color: rgb(200, 12, 20);
 	font-weight: 700;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+
 }
 
 .nav-link.active {
