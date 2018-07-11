@@ -54,6 +54,11 @@
 	background-color: rgba(115, 200, 12, 0.9) !important;
 }
 
+.nav-pills li {
+    margin-left: 5px;
+} 
+
+
 /*За slideshow снимките*/
 /* @keyframes slider{
 	0%{
