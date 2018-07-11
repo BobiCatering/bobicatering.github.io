@@ -1,0 +1,49 @@
+.nav {
+	background-color: rgb(200, 12, 20);
+	margin-top: 0;
+}
+
+.nav-link {
+	color: white;
+}
+
+.nav-link:hover {
+	background-color: #73c80c;
+	color: rgb(200, 12, 20);
+	font-weight: 700;
+}
+
+.active {
+	background-color: #73c80c;
+}
+
+a:active {
+	background-color: black;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 2%;
+}
+
+/* това е за цветовете на "контакти" и "за мен" */
+.dark{
+	padding: 15px;
+	background: #35424a;
+	color:#ffffff;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+
+#background {
+	background-image: url(Images/photo1.jpg);
+	margin-top: 0;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 2%;
+}
