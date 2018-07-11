@@ -49,6 +49,10 @@
 	padding-bottom: 2%;
 }
 
+.dropdown-menu {
+	background-color: rgba(115, 200, 12, 0.9) !important;
+}
+
 /*За slideshow снимките*/
 /* @keyframes slider{
 	0%{
