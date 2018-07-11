@@ -13,12 +13,9 @@
 	font-weight: 700;
 }
 
-.active {
-	background-color: #73c80c;
-}
-
-a:active {
-	background-color: black;
+.nav-link.active {
+	background-color: #0cc8b8 !important;
+	font-weight: 700 !important;
 }
 
 #logo {
