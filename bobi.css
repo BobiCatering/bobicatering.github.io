@@ -50,7 +50,7 @@
 }
 
 /*За slideshow снимките*/
-@keyframes slider{
+/* @keyframes slider{
 	0%{
 		left: 0;
 	}
@@ -96,4 +96,4 @@
 	font-size: 0;
 	animation: 20s slider infinite;
 }
-
+ */
