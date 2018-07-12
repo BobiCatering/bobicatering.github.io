@@ -39,10 +39,25 @@
 	margin-top:10px;
 	margin-bottom: 10px;
 }
+.red-line-bottom{
+	padding: 15px;
+	background:red;
+	color:#ffffff;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.text-bottom{
+	text-align: center;
+	color:white !important;
+}
 h1{
 	text-align: center;
-	color: red !important;
+	color: white !important;
 	
+}
+.information{
+	text-align: center;
+	color: white !important;
 }
 /*Галерия*/
 h2{
