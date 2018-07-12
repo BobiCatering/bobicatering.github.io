@@ -169,3 +169,6 @@ h2{
 	transform: scale(1.1);
 	transition:1s;
 }
+#contacts-link{
+	color: #0cc8b8;
+}
