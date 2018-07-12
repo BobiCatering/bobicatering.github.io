@@ -58,11 +58,9 @@ body {
 	margin-bottom: 10px;
 }
 .red-line-bottom{
-	padding: 15px;
-	background:red;
+	background: rgb(200, 12, 20);
 	color:#ffffff;
-	margin-top:10px;
-	margin-bottom: 10px;
+
 }
 .text-bottom{
 	text-align: center;
