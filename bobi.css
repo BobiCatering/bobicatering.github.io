@@ -165,3 +165,7 @@ h2{
 	}
 		
 	}
+.gal img:hover{
+	transform: scale(1.1);
+	transition:1s;
+}
