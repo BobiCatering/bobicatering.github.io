@@ -125,6 +125,16 @@ h2{
 	padding-bottom: 2%;
 }
 
+#contacts-body .dark {
+	background-image: url(Images/contacts.png);
+	margin-top: 0;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 2%;
+	
+}
+
 .dropdown-menu {
 	background-color: rgba(115, 200, 12, 0.9) !important;
 }
