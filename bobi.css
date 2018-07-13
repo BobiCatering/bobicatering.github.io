@@ -34,14 +34,11 @@
 
 
 #request-body .dark{
-	padding: 15px;
 	width: 100%;
 	background-image: url(Images/party.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	color:#ffffff;
-	margin-top:10px;
-	margin-bottom: 10px;
 	line-height: 0.8;
 }
 #request-body h1 {
