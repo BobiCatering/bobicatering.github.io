@@ -105,7 +105,27 @@ h2{
 }
 
 .dropdown-menu {
-	background-color: rgba(115, 200, 12, 0.9) !important;
+	background-color: rgb(200, 12, 20) !important;
+}
+
+.dropdown-item {
+	margin-bottom: 2px;
+	background-color: rgb(200, 12, 20) !important;
+	color: white !important;
+	font-weight: 700;
+
+}
+
+.dropdown-item:hover {
+	margin-bottom: 2px;
+	background-color: #73c80c !important;
+	color: rgb(200, 12, 20) !important;
+	font-weight: 700;
+	border-radius: 11px;
+}
+
+.show>.nav-link {
+	background-color: #73c80c !important;
 }
 
 .nav-pills li {
