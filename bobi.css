@@ -62,20 +62,13 @@
 		width: 105ch;
 	}
 }
-/* @keyframes blink{
-	from{
-		border-color: transparent;
-	}
-	to{
-		border-color: navajowhite;
-	}
-} */
 
 /* това е за цветовете на "контакти" и "за мен" */
 .dark{
 	background: #35424a;
 	color:#ffffff;
-	margin: 0;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 .red-line-bottom{
 	background: rgb(200, 12, 20);
