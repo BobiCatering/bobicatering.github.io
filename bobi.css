@@ -75,6 +75,7 @@
 .dark{
 	background: #35424a;
 	color:#ffffff;
+	margin: 0;
 }
 .red-line-bottom{
 	background: rgb(200, 12, 20);
