@@ -44,7 +44,6 @@
 	margin-bottom: 10px;
 	line-height: 0.8;
 }
-
 #request-body h1 {
 	animation: typing-text 2s steps(50), blink 0.5s infinite alternate;
 	overflow: hidden;
