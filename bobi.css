@@ -113,6 +113,14 @@ h2{
 	
 }
 
+#for-me-body .dark{
+	background-image: url(Images/for-me.png);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 2%;	
+}
+
 .dropdown-menu {
 	background-color: rgb(200, 12, 20) !important;
 }
@@ -186,4 +194,9 @@ h2{
 }
 #facebook{
 	color: #0cc8b8;
+}
+
+.hlight {
+	color: #73c80c;
+	font-weight: bold;
 }
