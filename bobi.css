@@ -1,7 +1,3 @@
-html {
-	background-color: rgb(200, 12, 20);
-}
-
 html,body
 {
     width: 100%;
@@ -10,6 +6,11 @@ html,body
     padding: 0px;
     overflow-x: hidden; 
 }
+
+html {
+	background-color: rgb(200, 12, 20) !important;
+}
+
 
 .nav {
 	background-color: rgb(200, 12, 20);
