@@ -65,11 +65,14 @@ html {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+
 .red-line-bottom{
 	background: rgb(200, 12, 20);
 	color:#ffffff;
-
+	padding-bottom: 1em;
+	padding-top: 30px;
 }
+
 .text-bottom{
 	text-align: center;
 	color:white !important;
