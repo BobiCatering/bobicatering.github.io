@@ -190,7 +190,7 @@ h2{
 }
 
 #gallery-body {
-	background-color: #303030;
+	background: url(Images/gallery.jpg);
 }
 #facebook{
 	color: #0cc8b8;
