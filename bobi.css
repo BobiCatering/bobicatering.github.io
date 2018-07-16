@@ -149,6 +149,10 @@ h2{
 	border-radius: 11px;
 }
 
+.page-title {
+	margin-top: 20px;
+}
+
 .show>.nav-link {
 	background-color: #73c80c !important;
 }
