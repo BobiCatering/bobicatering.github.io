@@ -1,8 +1,4 @@
-@media only screen and (max-width: 641px)
-body {
-	max-width: none;
-	margin: 0 auto;
-}
+::-webkit-scrollbar {display: none !important;}
 
 .nav {
 	background-color: rgb(200, 12, 20);
