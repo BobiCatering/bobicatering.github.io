@@ -198,15 +198,18 @@ h2{
 	transform: scale(1.1);
 	transition:1s;
 }
-#contacts-link{
+
+.link{
 	color: #0cc8b8;
+}
+
+.link:hover{
+	color: #0cc8b8;
+	font-weight: bold;
 }
 
 #gallery-body {
 	background: url(Images/gallery.jpg);
-}
-#facebook{
-	color: #0cc8b8;
 }
 
 .hlight {
