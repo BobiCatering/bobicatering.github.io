@@ -201,10 +201,11 @@ h2{
 
 .link {
 	color: #0cc8b8;
+	font-weight: bold;
 }
 
 .link:hover{
-	color: #0cc8b8;
+	color: #ffb98a;
 	font-weight: bold;
 	text-decoration: none;
 }
