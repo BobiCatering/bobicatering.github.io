@@ -155,7 +155,26 @@ h2{
 	margin-bottom: 2px;
 	background-color: #73c80c !important;
 	color: rgb(200, 12, 20) !important;
-	font-weight: 700;
+	font-weight: 700 !important;
+	border-radius: 11px;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+
+.dropdown-item.active {
+	background-color: #0cc8b8 !important;
+	font-weight: 700 !important;
+	border-radius: 11px;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+
+.dropdown-item.active:hover {
+	color: white !important;
+	background-color: #0cc8b8 !important;
+	font-weight: 700 !important;
 	border-radius: 11px;
 }
 
