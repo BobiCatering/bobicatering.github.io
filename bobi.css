@@ -46,6 +46,15 @@ html {
     padding-top: 2%;
 }
 
+#alergens-body .dark {
+	background-image: url(Images/alergens.png);
+	margin-top: 0;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 2%;
+
+}
 
 #request-body .dark{
 	width: 100%;
