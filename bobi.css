@@ -207,7 +207,7 @@ h2{
 .link:hover{
 	color: #0cc8b8;
 	font-weight: bold;
-	text-decoration: underline #ffffff dashed;
+	text-decoration: underline #ffffff solid;
 }
 
 #gallery-body {
