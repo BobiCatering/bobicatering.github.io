@@ -52,7 +52,7 @@ html {
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding-bottom: 2%;
+	padding-bottom: 4%;
 
 }
 
@@ -328,9 +328,18 @@ body {
   color:#b8f07f ;
 }
 
+#alergens-body .hlight {
+	color: #73c80c;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: 'Lato', sans-serif; letter-spacing: 0px; font-size: 16px; color: #6e726e; font-weight: 400; line-height: 27px; }
-h1, h2, h3, h4, h5, h6 { color: #121312; margin: 0px 0px 15px 0px; font-weight: 400; font-family: 'Zilla Slab', serif; }
+h1, h2, h3, h4, h5, h6 { color: white; margin: 0px 0px 15px 0px; font-weight: 400; font-family: 'Zilla Slab', serif; }
 h1 { font-size: 38px; line-height: 48px; }
 h2 { font-size: 36px; line-height: 42px; }
 h3 { font-size: 26px; line-height: 36px; }
@@ -343,38 +352,26 @@ ul, ol { list-style: none; margin: 0; padding: 0; }
 a { text-decoration: none; color: #121312; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
 a:focus, a:hover { text-decoration: none; color: #1aa644; }
 
-
-
-
-
-
-
 .menu-block { margin-bottom: 30px; }
-.menu-title { border-bottom: 3px solid #0cc8b8; margin-bottom: 36px; padding-bottom: 10px; }
+.menu-title { border-bottom: 3px solid #0cc8b8; margin-bottom: 36px; padding-bottom: 10px; color: #ff9267;}
 .menu-content { border-bottom: 1px solid #0cc8b8; margin-bottom: 30px; }
 .dish-img { }
 .dish-content { margin-top: 12px; margin-bottom: 40px; }
-.dish-meta { font-size: 12px; text-transform: uppercase; display: block; width: 210px; line-height: 1.7S; color: #e03c23;}
+.dish-meta { font-size: 12px; text-transform: uppercase; display: block; width: 210px; line-height: 1.7S; color: #ff9267;}
 .dish-title { margin-bottom: 6px; font-size: 15px; text-transform: uppercase; font-weight: 500; position: relative; color: #0cc8b8; }
-.dish-price { position: absolute; right: 16px; top: 0px; font-size: 26px; color: #e03c23; font-weight: 500; font-family: 'Zilla Slab', serif; }
+.dish-price { position: absolute; right: 16px; top: 0px; font-size: 26px; color: #ff9267; font-weight: 500; font-family: 'Zilla Slab', serif; }
 .well-block .dish-meta { width: 100%; }
 .well-block .dish-price { font-size: 26px; color: #e03c23; font-weight: 500; font-family: 'Zilla Slab', serif; position: inherit; }
 
 
 .content{
-	background-image: url(Images/content.jpg);
+	background-image: url(Images/content.png);
 	margin-top: 0;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-bottom: 2%;
+	padding-top: 10px;
 }
 
-#alergens-body .hlight {
-	color: #73c80c;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000; 
-}
+
