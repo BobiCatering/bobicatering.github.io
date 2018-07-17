@@ -113,6 +113,7 @@ h2{
 
 #background {
 	background-image: url(Images/photo1.jpg);
+	background-attachment: fixed;
 	margin-top: 0;
 	width: 100%;
 	background-repeat: no-repeat;
